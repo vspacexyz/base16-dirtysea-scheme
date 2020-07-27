@@ -9,7 +9,7 @@ base04: "202020" # Dark Foreground (Used for status bars)
 base05: "000000" # Default Foreground, Caret, Delimiters, Operators
 
 base06: "f8f8f8" # Light Foreground (Not often used)
-base07: "c4d9c4" # (light-green) Light Background (Not often used)
+base07: "000000" # base07 (bright white) = base05 (white)
 
 base08: "000090" # (blue) Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
 base09: "006565" # (cyan) Integers, Boolean, Constants, XML Attributes, Markup Link Url
